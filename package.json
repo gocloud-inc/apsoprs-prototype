@@ -1,7 +1,7 @@
 {
   "name": "ssw-prototype",
   "private": true,
-  "version": "1.0.2",
+  "version": "1.0.3",
   "type": "module",
   "description": "Start Static Prototype is an innovative and efficient solution for establishing a solid foundation for your website's backbone.",
   "main": "vite.config.js",
