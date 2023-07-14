@@ -10,11 +10,12 @@
     "build": "vite build",
     "preview": "vite preview",
     "deploy": "gh-pages -d dist",
-    "release": "release-it"
+    "release": "dotenv release-it --"
   },
   "author": "Mark Paul Caneda",
   "license": "ISC",
   "devDependencies": {
+    "dotenv-cli": "^7.2.1",
     "gh-pages": "^5.0.0",
     "html-minifier": "^4.0.0",
     "release-it": "^16.1.0",
